@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Abhilash M Hadli. I'm currently pursuing graduation in Bachelors of Engineering at JSS Science and Technology University, Mysuru. I have passion in creating modern looking static website. Besides programming, I love Cricket, Photography and some good coffee.
+My name is Abhilash M Hadli. I'm currently pursuing graduation in Bachelors of Engineering at JSS Science and Technology University, Mysuru. I have passion in creating modern looking static website. Besides programming, I love Cricket and Photography.
 
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: Instagram @a7_abhilash
