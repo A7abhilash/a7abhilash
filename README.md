@@ -5,7 +5,7 @@ My name is Abhilash M Hadli. I'm currently pursuing graduation in Bachelors of E
 - 📫 How to reach me: Instagram @a7_abhilash
 - ⚡ Fun fact: I love Memes
 
-![Abhilash github status](https://github-readme-stats.vercel.app/api?username=a7abhilash&show_icons=true&theme=tokyonight)
+![Abhilash github status](https://github-readme-stats.vercel.app/api?username=a7abhilash&show_icons=true&theme=dark)
 <!--
 **A7abhilash/a7abhilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
