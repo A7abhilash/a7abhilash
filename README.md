@@ -6,9 +6,9 @@ My name is Abhilash M Hadli. I'm currently pursuing graduation in Bachelors of E
 - 📫 How to reach me: Instagram @a7_abhilash
 - ⚡ Fun fact: I love Memes
 
-#### 📑Blogs - No Stack to Fullstack
->> Visit https://bit.ly/nstfblogs
->> Tech Writings | Programming | Projects
+#### 📑Blogs - No Stack to Fullstack  
+>> Visit https://bit.ly/nstfblogs  
+>> Tech Writings | Programming | Projects  
 >> And yes Ive kept my friend's name as the creator of the page for time being. 
 
 ![Abhilash github status](https://github-readme-stats.vercel.app/api?username=a7abhilash&show_icons=true&theme=dark)
