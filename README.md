@@ -3,11 +3,11 @@ My name is Abhilash M Hadli. I'm currently pursuing graduation in Bachelors of E
 
 - 🎗 I'm focused on being MERN stack developer
 - 🌱 I’m currently learning NodeJs, ExpressJs & mongoDB
-- 📫 How to reach me: Instagram @a7_abhilash
+- 📫 How to reach me: Instagram [@a7_abhilash](https://instagram.com/a7_abhilash) 
 - ⚡ Fun fact: I love Memes
 
 #### 📑Blogs - No Stack to Fullstack  
->> Visit https://bit.ly/nstfblogs  
+>> Visit [NStF Blogs](https://bit.ly/nstfblogs)  
 >> Tech Writings | Programming | Projects  
 >> And yes I've kept my friend's name as the creator of the page for time being. 
 
