@@ -2,7 +2,7 @@
 My name is Abhilash M Hadli. I'm currently pursuing graduation in Bachelors of Engineering at JSS Science and Technology University, Mysuru. I love to turn my ideas into code and design. Besides programming, I love Cricket and Photography.
 
 - 🎗 I'm focused on being MERN stack developer
-- 🌱 I’m currently an intern at a startup called SiteX Digitech.
+- 👨‍💻 I’m currently an intern at a startup called SiteX Digitech.
 - 📫 How to reach me: Instagram [@a7_abhilash](https://instagram.com/a7_abhilash) 
 - ⚡ Fun fact: I love Memes
 
