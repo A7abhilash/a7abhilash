@@ -2,7 +2,7 @@
 My name is Abhilash M Hadli. I'm currently pursuing graduation in Bachelors of Engineering at JSS Science and Technology University, Mysuru. I love to turn my ideas into code and design. Besides programming, I love Cricket and Photography.
 
 - 🎗 I'm focused on being MERN stack developer and Mobile App Developer with React Native.
-- 👨‍💻 I’m currently an intern at a startup called SiteX Digitech.
+- 👨‍💻 I’m currently working on personal projects and focusing on Data Structures.
 - 📫 How to reach me: Instagram [@a7_abhilash](https://instagram.com/a7_abhilash) 
 - ⚡ Fun fact: I love Memes
 
@@ -11,8 +11,11 @@ My name is Abhilash M Hadli. I'm currently pursuing graduation in Bachelors of E
 >> Tech Writings | Programming | Projects  
 >> And yes I've kept my friend's name as the creator of the page for time being. 
 
-![Abhilash github status](https://github-readme-stats.vercel.app/api?username=a7abhilash&show_icons=true&theme=dark)
+#### 📑DEV.to  
+>> [@a7abhilash](https://dev.to/a7abhilash)
 
+
+![Abhilash github status](https://github-readme-stats.vercel.app/api?username=a7abhilash&show_icons=true&theme=dark)
 
 <!--
 **A7abhilash/a7abhilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
