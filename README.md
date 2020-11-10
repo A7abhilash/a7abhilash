@@ -11,9 +11,6 @@ My name is Abhilash M Hadli. I'm currently pursuing graduation in Bachelors of E
 >> Tech Writings | Programming | Projects  
 >> And yes I've kept my friend's name as the creator of the page for time being. 
 
-#### 📑DEV.to  
->> [@a7abhilash](https://dev.to/a7abhilash)
-
 
 ![Abhilash github status](https://github-readme-stats.vercel.app/api?username=a7abhilash&show_icons=true&theme=dark)
 
