@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋</h2>  
+<h1 align="center">Hi there 👋</h1>    
 
 <h4 align="center">My name is Abhilash M Hadli. I'm currently pursuing graduation in Bachelors of Engineering at JSS Science and Technology University, Mysuru. I love to turn my ideas into code and design. Besides programming, I love Cricket and Photography.</h4>  
 
