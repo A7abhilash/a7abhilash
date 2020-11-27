@@ -1,10 +1,12 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hi there 👋</h2>  
 
+<h4>My name is Abhilash M Hadli. I'm currently pursuing graduation in Bachelors of Engineering at JSS Science and Technology University, Mysuru. I love to turn my ideas into code and design. Besides programming, I love Cricket and Photography.</h4>  
 
 - 🎗 I'm focused on being MERN stack developer and Mobile App Developer with React Native.
 - 💻 I’m currently working on personal projects and learning Data Structures.
 - 📫 How to reach me: Instagram [@a7_abhilash](https://instagram.com/a7_abhilash) 
 - ⚡ Fun fact: I love Memes
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7abhilash&label=Views&color=blue&style=plastic" alt="a7abhilash" /> </p>
 
 #### 📑Blogs - No Stack to Fullstack  
 >> Visit [NStF Blogs](https://bit.ly/nstfblogs)  
@@ -12,7 +14,7 @@
 >> And yes I've kept my friend's name as the creator of the page for time being. 
 
 
-![Abhilash github status](https://github-readme-stats.vercel.app/api?username=a7abhilash&show_icons=true&theme=dark)
+![Abhilash github status](https://github-readme-stats.vercel.app/api?username=a7abhilash&include_all_commits=true&show_icons=true&theme=dark&line_height=27&count_private=true)
 
 <!--
 **A7abhilash/a7abhilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
