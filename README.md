@@ -1,5 +1,5 @@
-### Hi there 👋
-My name is Abhilash M Hadli. I'm currently pursuing graduation in Bachelors of Engineering at JSS Science and Technology University, Mysuru. I love to turn my ideas into code and design. Besides programming, I love Cricket and Photography.
+<h2 align="center">Hi there 👋</h2>
+
 
 - 🎗 I'm focused on being MERN stack developer and Mobile App Developer with React Native.
 - 💻 I’m currently working on personal projects and learning Data Structures.
