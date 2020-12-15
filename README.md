@@ -8,9 +8,9 @@
 
 <h3 align="left">📫 Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abhilash-m-hadli-a71b481b1/)](https://www.linkedin.com/in/abhilash-m-hadli-a71b481b1/)
-[![Instagram Badge](https://img.shields.io/badge/-white?style=flat-square&logo=instagram&logoColor=purple&link=https://instagram.com/a7_abhilash/)](https://instagram.com/a7_abhilash)
-[![Gmail Badge](https://img.shields.io/badge/-white?style=flat-square&logo=Gmail&logoColor=c14438&link=mailto:a7abhilash@gmail.com)](mailto:a7abhilash@gmail.com)   
+[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhilash-m-hadli-a71b481b1/)](https://www.linkedin.com/in/abhilash-m-hadli-a71b481b1/)
+[![Instagram Badge](https://img.shields.io/badge/-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/a7_abhilash/)](https://instagram.com/a7_abhilash)
+[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a7abhilash@gmail.com)](mailto:a7abhilash@gmail.com)   
 
   
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
