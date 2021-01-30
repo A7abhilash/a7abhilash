@@ -15,7 +15,7 @@
 <h3 align="left">👨‍💻 Technologies that I'm familiar with:</h3>
 <ul>
   <li><strong>Languages: </strong>C/C++, Java, JavaScript</li>
-  <li><strong>Libraries/Frameworks: </strong>Bootstrap, jQuery, React JS, Gatsby JS, GraphQL, Node.js, Express JS, EJS, Mongoose</li>
+  <li><strong>Libraries/Frameworks: </strong>Bootstrap, jQuery, React JS, Gatsby JS, GraphQL, Node.js, Express JS, EJS, Mongoose, Electron JS</li>
   <li><strong>Database: </strong>MongoDB</li>
   <li><strong>Backend as a service: </strong>Firebase</li>
   <li><strong>Tools: </strong>Git, VS Code</li>
