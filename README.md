@@ -17,7 +17,7 @@
   <li><strong>Languages: </strong>C/C++, Java, JavaScript</li>
   <li><strong>Libraries/Frameworks: </strong>Bootstrap, jQuery, React JS, Gatsby JS, GraphQL, Node.js, Express JS, EJS, Mongoose</li>
   <li><strong>Database: </strong>MongoDB</li>
-  <li><strong>Cloud Services: </strong>Firebase</li>
+  <li><strong>Backend as a service: </strong>Firebase</li>
   <li><strong>Tools: </strong>Git, VS Code</li>
 </ul>
 
