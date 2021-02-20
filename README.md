@@ -3,7 +3,7 @@
 <h3 align="center">Student | Developer | Learner</h3>    
 
 - 🎗 I'm focused on working with MERN Stack Applications and deeply passionate about software development.  
-- 💻 I’m currently working on personal web projects and learning Data Structures.  
+- 💻 I’m currently focusing on DSA and learning React Native.  
 - ⚡ Besides programming, I love playing cricket.  
 
 <h3 align="left">📫 Connect with me:</h3> 
