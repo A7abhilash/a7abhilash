@@ -2,7 +2,7 @@
 
 <h3 align="center">Student | Developer | Learner</h3>    
 
-- 🎗 I'm interested in working with Full Stack Applications and deeply passionate about software development.  
+- 🎗 I'm interested in working with Fullstack Applications and deeply passionate about software development.  
 - 💻 I’m currently focusing on DSA and learning React Native.  
 - ⚡ Besides programming, I love playing cricket.  
 
