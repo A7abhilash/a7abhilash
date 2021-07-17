@@ -3,7 +3,7 @@
 <h3 align="center">Student | Developer | Learner</h3>    
 
 - 🎗 I'm interested in working with Fullstack Applications and deeply passionate about software development.  
-- 💻 I’m currently focusing on DSA and learning React Native.  
+- 💻 I’m currently focusing on DSA and working on personal projects.  
 - ⚡ Besides programming, I love playing cricket.  
 
 <h3 align="left">📫 Connect with me:</h3> 
@@ -21,7 +21,9 @@
   <li><strong>Tools: </strong>Git, VS Code</li>
 </ul>
 
-![Abhilash github status](https://github-readme-stats.vercel.app/api?username=a7abhilash&include_all_commits=true&show_icons=true&theme=dark&line_height=27&count_private=true)
+<h3 align="left">📚 GitHub Stats:</h3>  
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=a7abhilash&hide_border=true&theme=tokyonight" alt="Abhilash github status">
+<img  src="https://github-readme-stats.vercel.app/api?username=a7abhilash&include_all_commits=true&show_icons=true&theme=tokyonight&line_height=27&count_private=true">
 
 
 <!--
