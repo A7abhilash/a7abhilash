@@ -14,7 +14,7 @@
 
 <h3 align="left">🎀 Publications:</h3>
 <ul>
-  <li><a href="http://bit.ly/codehouse-playstore"/><strong>Code House: </strong></a>A simple app that contains a curated list of tutorials to learn pgramming for free.</li>
+  <li><a href="http://bit.ly/codehouse-playstore"/><strong>Code House: </strong></a>A simple app that contains a curated list of tutorials to learn programming for free.</li>
   <li><a href="http://bit.ly/tma-playstore"/><strong>Track My Attendance: </strong></a>A simple app to manage your college attendance and make sure you never go off the track.</li>
 </ul>
 
