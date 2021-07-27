@@ -12,6 +12,12 @@
 <a href="mailto:a7abhilash@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="a7abhilash@gmail.com" height="30" width="40" /></a>    
 <p>PS: Icons aren't visible in dark mode.</p>
 
+<h3 align="left">🎀 Publications:</h3>
+<ul>
+  <li><a href="http://bit.ly/codehouse-playstore"/><strong>Code House: </strong></a>A simple app that contains a curated list of tutorials to learn pgramming for free.</li>
+  <li><a href="http://bit.ly/tma-playstore"/><strong>Track My Attendance: </strong></a>A simple app to manage your college attendance and make sure you never go off the track.</li>
+</ul>
+
 <h3 align="left">👨‍💻 Technologies that I'm familiar with:</h3>
 <ul>
   <li><strong>Languages: </strong>C/C++, Java, JavaScript</li>
