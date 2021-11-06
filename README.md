@@ -3,7 +3,7 @@
 <h3 align="center">Student | Developer | Learner</h3>    
 
 - 🎗 I'm interested in working with Fullstack Applications and deeply passionate about software development.  
-- 💻 I’m currently focusing on DSA and working on personal projects.  
+- 💻 I’m currently focusing on DSA and working on personal projects(Web/App/Blockchain).  
 - ⚡ Besides programming, I love playing cricket.  
 
 <h3 align="left">📫 Connect with me:</h3> 
