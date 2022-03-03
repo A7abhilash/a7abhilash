@@ -22,7 +22,7 @@
 <ul>
   <li><strong>Languages: </strong>C/C++, Java, JavaScript, Solidity</li>
   <li><strong>Libraries/Frameworks: </strong>Bootstrap, jQuery, React JS, React Native, Gatsby JS, GraphQL, Node.js, Express JS, EJS, Mongoose, Electron JS, Truffle, Web3.js</li>
-  <li><strong>Database: </strong>MongoDB</li>
+  <li><strong>Database: </strong>MongoDB, MySQL</li>
   <li><strong>Backend as a service: </strong>Firebase</li>
   <li><strong>Tools: </strong>Git, VS Code</li>
 </ul>
